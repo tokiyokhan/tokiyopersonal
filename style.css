@@ -1,0 +1,30 @@
+
+*{
+	text-align: center;
+	background-color: green;
+}
+.mudrsa{
+
+ font-family: green;
+  text-transform: capitalize;
+ display: flex;
+ font-size: 18px;
+ font-weight:bold;
+ text-align: center;
+
+}
+.list1{
+	list-style-type: none;
+	
+	margin: auto;
+	color: red;
+	 text-align: justify;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+
+
+
+
+}
